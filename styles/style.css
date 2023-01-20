@@ -17,3 +17,8 @@ header a.nav-link {
     color: #E0E0E0;
     font-weight: 300;
 }
+
+/* Card  */
+.card-btn {
+    font-size: 13px;
+}
