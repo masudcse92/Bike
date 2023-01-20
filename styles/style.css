@@ -1,0 +1,19 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+/* nav  */
+header {
+    height: 100vh;
+    background-color: #264653;
+}
+
+header a.nav-link {
+    padding: 0px 20px !important;
+}
+
+.slider-desc {
+    color: #E0E0E0;
+    font-weight: 300;
+}
